@@ -1,0 +1,11 @@
+int32 first
+int32 second
+int32 third
+int32 fourth
+int32 fifth
+int32 sixth
+int32 seventh
+int32 eighth
+int32 ninth
+---
+float32 det
